@@ -2,22 +2,11 @@ body:
   - type: markdown
     attributes:
       value: |
-        Q&A is meant for community discussions.
-        If you found a bug or want to request a new feature please report these inside [our dedicated issuetracker](https://xdevsoftware.atlassian.net/jira/projects).
-        Note however that there is no warranty that issues will be processed within a specific time without a [support plan](https://xdev.software/en/services/support).
-  - type: checkboxes
-    id: checklist
-    attributes:
-      label: "Checklist"
-      options:
-        - label: |
-            TEST
-            TEST2
-          required: true
-        - label: "I made sure that there are *no [existing discussions](https://github.com/orgs/RapidClipse/discussions)* which I could contribute my information to."
-          required: true
-        - label: "I have taken the time to fill in all the required details. I understand that the question will be dismissed otherwise."
-          required: true
+        By creating this discussion I acknowledge that:
+        * This disucsstion category is meant for community discussions.
+          * If you found a bug or want to request a new feature please report these inside [our dedicated issuetracker](https://xdevsoftware.atlassian.net/jira/projects).<br/>Note however that there is no warranty that issues will be processed within a specific time without a [support plan](https://xdev.software/en/services/support).
+        * I made sure that there are *no [existing discussions](https://github.com/orgs/RapidClipse/discussions)* which I could contribute my information to.
+        * I have taken the time to fill in all the required details. I understand that the question will be dismissed otherwise.
   - type: textarea
     id: description
     attributes:
