@@ -4,7 +4,7 @@ body:
       value: |
         By creating this discussion I acknowledge that:
         * This disucsstion category is meant for community discussions.
-          * Bugs or feature requests should be reported inside [our dedicated issuetracker](https://xdevsoftware.atlassian.net/jira/projects).<br/>Our development team will have a look as soon as possible. Note however that there is no warranty that issues will be processed within a specific timeframe without a [support plan](https://xdev.software/en/services/support).
+          * Bugs or feature requests should be reported inside [our dedicated issuetracker](https://xdevsoftware.atlassian.net/jira/projects).<br/>Our development team will have a look as soon as possible.<br/>Note however that there is no warranty that issues will be processed within a specific timeframe without a [support plan](https://xdev.software/en/services/support).
         * I made sure that there are *no [existing discussions](https://github.com/orgs/RapidClipse/discussions)* which I could contribute my information to.
   - type: textarea
     id: description
