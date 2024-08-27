@@ -10,7 +10,9 @@ body:
     attributes:
       label: "Checklist"
       options:
-        - label: "TEST<br/>TEST"
+        - label: |
+            TEST
+            TEST2
           required: true
         - label: "I made sure that there are *no [existing discussions](https://github.com/orgs/RapidClipse/discussions)* which I could contribute my information to."
           required: true
