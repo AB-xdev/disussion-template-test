@@ -14,5 +14,7 @@ body:
           required: true
   - type: textarea
     id: description
+    attributes:
+      label: "Description"
     validations:
       required: true
