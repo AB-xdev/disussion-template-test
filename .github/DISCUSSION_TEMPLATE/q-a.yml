@@ -1,7 +1,6 @@
 body:
   - type: markdown
     attributes:
-      label: "Scope"
       value: |
         Q&A is meant for community discussions.
         If you found a bug or want to request a new feature please report these inside [our dedicated issuetracker](https://xdevsoftware.atlassian.net/jira/projects).
