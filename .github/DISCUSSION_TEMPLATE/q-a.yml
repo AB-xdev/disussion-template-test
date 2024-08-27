@@ -1,13 +1,20 @@
 body:
   - type: markdown
     attributes:
+      label: "Scope"
       value: |
-        Thanks for taking the time to fill out this form!
+        Q&A is meant for community discussions.
+        If you found a bug or want to request a new feature please report these inside [our dedicated issuetracker](https://xdevsoftware.atlassian.net/jira/projects).
+        Note however that there is no warranty that issues will be processed within a specific time without a [support plan](https://xdev.software/en/services/support).
   - type: checkboxes
     id: checklist
     attributes:
       label: "Checklist"
       options:
+        - label: |
+            TEST
+            TEST
+          required: true
         - label: "I made sure that there are *no [existing discussions](https://github.com/orgs/RapidClipse/discussions)* which I could contribute my information to."
           required: true
         - label: "I have taken the time to fill in all the required details. I understand that the question will be dismissed otherwise."
